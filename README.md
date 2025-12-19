@@ -49,7 +49,7 @@ This dashboard helps decision‑makers understand trends, evaluate performance, 
   
 
 ### **Details**
-<img width="609" height="370" alt="Bank Loan Details" src="https://github.com/user-attachments/assets/0c61a8f9-d5ba-4d58-8c40-39e6fd32d158" />
+<img width="617" height="370" alt="Bank loan Details" src="https://github.com/user-attachments/assets/1389a48c-bc10-4384-a802-493e2c45787c" />
 
 
 ---
