@@ -37,18 +37,20 @@ This dashboard helps decision‑makers understand trends, evaluate performance, 
 
 | `README.md` | Project Documentation |
 
-> *(Add or remove screenshots based on what you upload.)*
+
 
 ---
 
-## 📸 Dashboard Preview
-### **Summary View**
-*(Insert screenshot once uploaded)*  
-!Summary
+## 📸 Summary Preview
+<img width="612" height="373" alt="Bank loan Summary" src="https://github.com/user-attachments/assets/b03c1e2f-b36c-44b9-924f-00d67a5a326d" />
 
-### **Detailed Metrics**
-*(Insert screenshot once uploaded)*  
-!Metrics
+### **OverView**
+<img width="614" height="376" alt="Bank loan overview" src="https://github.com/user-attachments/assets/cb21a687-dda7-4b4f-8668-4ea5ed6d8c7b" />
+  
+
+### **Details**
+<img width="609" height="370" alt="Bank Loan Details" src="https://github.com/user-attachments/assets/0c61a8f9-d5ba-4d58-8c40-39e6fd32d158" />
+
 
 ---
 
